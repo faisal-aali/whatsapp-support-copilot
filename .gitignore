@@ -1,5 +1,4 @@
 # Environment and local databases
-.env
 backend/.env
 backend/data/*.db
 
@@ -19,4 +18,5 @@ frontend/.vite/
 # Editor and OS files
 .DS_Store
 .idea/
-.vscode/
+config.bat
+node_modules
